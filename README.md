@@ -3,8 +3,8 @@ It's a Notes storing web based application made using HTML5, CSS3, and JavaScrip
 
 ---
 # Program Screenshot
-
-<p align="center"><img src-"https://github.com/DeepNinja07x/Notes/blob/main/notes-app-project-master/Screenshot.jpg" alt="Screenshot" width="85%"></p>
+<br>
+<p align="center"><img src="https://github.com/DeepNinja07x/Notes/blob/main/notes-app-project-master/Screenshot.jpg" alt="Screenshot" width="85%"></p>
 
 ---
 # How to Contribute:
